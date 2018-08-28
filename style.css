@@ -1,0 +1,22 @@
+body {
+    background-image: url("assets/icecream.jpg");
+    font-family: 'Roboto', sans-serif;
+}
+
+.whiteout {
+    background-color: #fffefeb4; 
+}
+
+.logoHeader {
+    height: auto;
+    width: 250px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    padding-top: 50px;
+}
